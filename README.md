@@ -6,4 +6,8 @@ To start off, I have started learning **Javascript** and doing some projects at 
 
 I will be updating daily with the contents I have learned and projects presented.
 
-## Day 1 - Functions in Javascript & Login Page
+## Topics covered During the period :
+
+### 1. Javascript
+#### 
+
