@@ -9,5 +9,8 @@ I will be updating daily with the contents I have learned and projects presented
 ## Topics covered During the period :
 
 ### 1. Javascript
-#### 
+* Basics 
+* DOM and Events
+* ES6
+
 
